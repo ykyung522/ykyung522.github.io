@@ -10,8 +10,12 @@ layout: compress
   "description": "{{ site.description }}",
   "icons": [
     {
-      "src": "{{ favicon_path }}/view.png",
-      "type": "image/png"
+      "src": "{{ favicon_path }}/view.jpg",  
+      "type": "image/jpg" 
+    },
+    {
+      "src": "{{ favicon_path }}/favicon.ico", 
+      "type": "image/x-icon"  
     }
   ],
   "start_url": "{{ '/index.html' | relative_url }}",
