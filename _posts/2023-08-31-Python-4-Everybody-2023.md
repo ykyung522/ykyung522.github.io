@@ -9,6 +9,8 @@ summary: "부스트코스 PYTHON 4 EVERYBODY 코칭스터디는 2023년에 진�
 
 
 <!-- # [코칭스터디 12기] 부스트코스 PYTHON 4 EVERYBODY 코칭스터디 : 2023 후기 🎓 -->
+<img src="/images/boostcourse/poster.png" alt="포스터" style="width: 500px;">
+
 
 ## 📅 **기간**  
 2023.7.12 ~ 2023.8.24 (6주간)  
